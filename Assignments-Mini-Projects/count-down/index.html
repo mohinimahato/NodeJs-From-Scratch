@@ -7,28 +7,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Countdown | Mini Project | Assignment One</title>
     <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
 <body>
-    <div class="mainContainer">
-        <div class="container">
-            <div class="occupyingEntireWidthOfContainer">
-                <div class="formContainer">
-                    <div class="mainHeading">
+    <div class="container">
+        <div class="col-12">
+            <div class="col-9 mx-auto">
+                <div class="col-10 mx-auto border border-danger formContainer">
+                    <div class="text-center mainHeading">
                         Schedule Event
                     </div>
-                    <div class="occupyingEntireWidthOfContainer centeredElement">
-                        <form action="" method="" id="countDown">
-                            <input type="date" class="dateInput" id="dateInput">
-                            <input type="time" class="timeInput" id="timeInput">
-                            <button type="button" class="">Submit</button>
+                    <div class="col-8 mx-auto border border-danger centeredElement">
+                        <form action="/" method="" id="countDown">
+                            <input type="datetime-local" id="dateInput">
+                            <button type="button" id="submitBtn" onclick="submitDateTime()">Submit</button>
                         </form>
+                        <div class="d-flex" id="counterDiv">
+                            <div><span id="days"></span> days</div>
+                            <div> <span id="hours"></span> hours</div>
+                            <div> <span id="minutes"></span> minutes</div>
+                            <div> <span id="seconds"></span> seconds </div>
+                        </div>
+                        <div id="eventSuccess"></div>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+
     <script src="./script.js"></script>
-</body>
+    =
 
 </html>
