@@ -11,11 +11,24 @@
 
 <body>
     <div class="mainContainer">
+        <div class="resultText" id="result">Player <span>1</span> WON!</div>
         <div class="container">
-            <canvas id="pingPong">
 
-            </canvas>
+            <div class="score_div">
+                <div class="player" id="player-left">0</div>
+                <div class="player" id="player-right-computer">0</div>
+            </div>
+            <div class="ball" id="ball"></div>
+            <div class="paddle paddle-left" id="paddle-left"></div>
+            <div class="paddle paddle-right" id="paddle-right"></div>
+
         </div>
+        <div class="btn-div">
+
+            <button class="reset-btn" id="reset-btn">Reset</button>
+
+        </div>
+
 
     </div>
     <script src="../ping-pong/script.js"></script>
