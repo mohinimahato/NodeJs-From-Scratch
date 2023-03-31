@@ -6,21 +6,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../ping-pong/style.css">
+    <script src="../ping-pong/script.js" type="module"></script>
     <title>Ping Pong | Mini Project</title>
 </head>
 
 <body>
     <div class="mainContainer">
-        <div class="resultText" id="result">Player <span>1</span> WON!</div>
         <div class="container">
 
             <div class="score_div">
-                <div class="player" id="player-left">0</div>
-                <div class="player" id="player-right-computer">0</div>
+                <div class="player" id="playerScore">0</div>
+                <div class="player" id="computerScore">0</div>
             </div>
             <div class="ball" id="ball"></div>
-            <div class="paddle paddle-left" id="paddle-left"></div>
-            <div class="paddle paddle-right" id="paddle-right"></div>
+            <div class="paddle paddle-left" id="playerLeft"></div>
+            <div class="paddle paddle-right" id="playerRightComputer"></div>
 
         </div>
         <div class="btn-div">
@@ -31,7 +31,7 @@
 
 
     </div>
-    <script src="../ping-pong/script.js"></script>
+
 </body>
 
 </html>
