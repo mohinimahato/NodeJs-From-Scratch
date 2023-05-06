@@ -20,6 +20,11 @@ Efficient, scalable, and lightning thunder`
 - 🚧Intro to Promises [Handwritten Notes]() [Work in Progress]
 - 🚧Intro to Promises [Code Solution]() [Work in Progress]
 - 🚧Road to async await [Handwritten Notes]() [Work in Progress]
+              - Closures
+              - Iterators
+              - Generators
+              - Async / Await
+              
 - 🚧Road to async await [Code Solution]() [Work in Progress]
 - 🚧[Blogs]() [Work in Progress]
 ----
