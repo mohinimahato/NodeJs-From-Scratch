@@ -13,7 +13,10 @@ Efficient, scalable, and lightning thunder`
 
 ### **📚 003: Advance JavaScript II (Asynchronous JS)**
 ##### **SECTION I**
-- 🚧Callbacks [Handwritten Notes]() [Work in Progress]
+- ✅Callbacks [Handwritten Notes]() <br>
+              → [Intro to callbacks](https://tinyurl.com/callback-inversionOfControl) <br>
+              → [How runtime help in async nature of JS](https://tinyurl.com/HowRuntimeHelpInAsyncJs) <br>
+
 - 🚧Callbacks [Code Solution]() [Work in Progress]
 - 🚧[Blogs]() [Work in Progress]
 ##### **SECTION II**
