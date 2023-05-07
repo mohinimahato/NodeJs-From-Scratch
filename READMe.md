@@ -15,7 +15,7 @@ Efficient, scalable, and lightning thunder`
 ##### **SECTION I**
 - ✅ Callbacks <br>
               → Intro to callbacks [Handwritten Notes](https://tinyurl.com/callback-inversionOfControl) <br>
-              → How runtime help in async nature of JS [Handwritten Notes] (https://tinyurl.com/HowRuntimeHelpInAsyncJs) <br>
+              → How runtime help in async nature of JS [Handwritten Notes](https://tinyurl.com/HowRuntimeHelpInAsyncJs) <br>
 
 - 🚧Callbacks [Code Solution]() [Work in Progress]
 - 🚧[Blogs]() [Work in Progress]
