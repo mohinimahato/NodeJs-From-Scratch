@@ -27,8 +27,8 @@ Efficient, scalable, and lightning thunder`
 - ✅Introduction to Node.Js Architecture Part I [Notes](./NotesFolder/Intro%20to%20Node%20Architecture%20Part%201.pdf) 
 - ✅Introduction to Node.Js Architecture Part II [Notes](./NotesFolder/Intro%20to%20Node%20Architecture%20Part%202.pdf) 
 ##### **SECTION II**
-- 🚧Module Pattern In NodeJs [Notes]() 
-- 🚧Project 0: Telegram Bot Repository [Link]() 
+- 🚧Module Pattern In NodeJs [Notes](./NotesFolder/Module%20Pattern%20In%20Node%20Js.pdf) 
+- 🚧Project 0: Telegram Bot Repository [Link](https://github.com/mohinimahato/Demo_telegram_bot) 
 
 ----
 
