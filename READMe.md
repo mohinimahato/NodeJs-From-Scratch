@@ -17,18 +17,18 @@ Efficient, scalable, and lightning thunder`
 - 🚧Callbacks [Code Solution]() [Work in Progress]
 - 🚧[Blogs]() [Work in Progress]
 ##### **SECTION II**
-- 🚧Intro to Promises [Handwritten Notes]() [Work in Progress]
+- ✅Intro to Promises Part 1 [Handwritten Digital Notes]() [./NotesFolder/Introduction%20to%20Promises%20Part%201.pdf]
 - 🚧Intro to Promises [Code Solution]() [Work in Progress]
 - 🚧Road to async await [Handwritten Notes]() [Work in Progress]
 - 🚧Road to async await [Code Solution]() [Work in Progress]
 - 🚧[Blogs]() [Work in Progress]
 ### **📚 004: Node.JS**
 ##### **SECTION I**
-- ✅Introduction to Node.Js Architecture Part I [Notes](./NotesFolder/Intro%20to%20Node%20Architecture%20Part%201.pdf) 
-- ✅Introduction to Node.Js Architecture Part II [Notes](./NotesFolder/Intro%20to%20Node%20Architecture%20Part%202.pdf) 
+- ✅Introduction to Node.Js Architecture Part I [Handwritten Digital Notes](./NotesFolder/Intro%20to%20Node%20Architecture%20Part%201.pdf) 
+- ✅Introduction to Node.Js Architecture Part II [Handwritten Digital Notes](./NotesFolder/Intro%20to%20Node%20Architecture%20Part%202.pdf) 
 ##### **SECTION II**
-- 🚧Module Pattern In NodeJs [Notes](./NotesFolder/Module%20Pattern%20In%20Node%20Js.pdf) 
-- 🚧Project 0: Telegram Bot Repository [Link](https://github.com/mohinimahato/Demo_telegram_bot) 
+- ✅Module Pattern In NodeJs [Handwritten Digital Notes](./NotesFolder/Module%20Pattern%20In%20Node%20Js.pdf) 
+- ✅Project 0: Telegram Bot Repository [Link](https://github.com/mohinimahato/Demo_telegram_bot) 
 
 ----
 
