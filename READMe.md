@@ -17,7 +17,7 @@ Efficient, scalable, and lightning thunder`
 - 🚧Callbacks [Code Solution]() [Work in Progress]
 - 🚧[Blogs]() [Work in Progress]
 ##### **SECTION II**
-- ✅Intro to Promises Part 1 [Handwritten Digital Notes]() [./NotesFolder/Introduction%20to%20Promises%20Part%201.pdf]
+- ✅Intro to Promises Part 1 [Handwritten Digital Notes](./NotesFolder/Introduction%20to%20Promises%20Part%201.pdf) 
 - 🚧Intro to Promises [Code Solution]() [Work in Progress]
 - 🚧Road to async await [Handwritten Notes]() [Work in Progress]
 - 🚧Road to async await [Code Solution]() [Work in Progress]
