@@ -11,6 +11,9 @@ Efficient, scalable, and lightning thunder`
 
 ## **Lectures** 👨‍💻🏆
 
+### **📚 001: Advance JavaScript I (Asynchronous JS)**
+##### **SECTION I**
+- ✅Higher Order Function  [Handwritten Notes](https://drive.google.com/file/d/1sWheR1BEKig8dk4983dv-N73Pww9hPSL/view?usp=sharing) 
 ### **📚 003: Advance JavaScript II (Asynchronous JS)**
 ##### **SECTION I**
 - 🚧Callbacks [Handwritten Notes]() [Work in Progress]
