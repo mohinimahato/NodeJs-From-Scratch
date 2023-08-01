@@ -32,42 +32,13 @@ Efficient, scalable, and lightning thunder`
 ##### **SECTION II**
 - ✅Module Pattern In NodeJs [Handwritten Digital Notes](./NotesFolder/Module%20Pattern%20In%20Node%20Js.pdf) 
 - ✅Project 0: Telegram Bot Repository [Link](https://github.com/mohinimahato/Demo_telegram_bot) 
-
+##### **SECTION III**
+-🚧Streams in Node
+### **📚 005: Express.JS**
+### **📚 006: ORM**
+### **📚 007: API**
+### **📚 008: SQL**
+### **📚 009: OOPS**
+## **🌐 Project 1:**
 ----
 
-## **Course Curriculam**
-
-* Basics of JavaScript
-* Advanced JavaScript
-* Scopes in JS
-* Closures in JS
-* Asynchronous JavaScript with Callbacks and Promises 🕰️
-* Hoisting and Coercion
-* Node JS
-* Express JS 🔥
-* Understanding how the internet works 🕸️
-* CI/CD
-* Micro-service based project development
-* Message brokers and Queues 💬
-* Introduction to programming and problem solving with JavaScript (Recorded) 🔍
-* Design Documentation and Feature Planning 📝
-* HLD discussion for the projects 💬
-* Deployments on Elastic Beanstalk or EC2 🚀
-* REST
-* gRPC 🔥
-* API development
-* CRUD API
-* HTTP / HTTPS 🌐
-* Web Sockets 💬
-* Deployment on AWS and Heroku 🚀
-* Containers, Docker, and Intro to Kubernetes 🐳
-* MongoDB 💾
-* MySQL 💾
-* ORM and ODM
-* Airline Ticket Booking System Project 🛫
-* Blog Project 📝
-* Chat Application Project 💬
-* Twitter Application Project 🐦
-* Networking 🌐
-* DOM Manipulation (extra frontend topic, will be taken in extra class or recorded session) 💻
-* Streams in NodeJS 🕰️
