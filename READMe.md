@@ -33,7 +33,7 @@ Efficient, scalable, and lightning thunder`
 - ✅Module Pattern In NodeJs [Handwritten Digital Notes](./NotesFolder/Module%20Pattern%20In%20Node%20Js.pdf) 
 - ✅Project 0: Telegram Bot Repository [Link](https://github.com/mohinimahato/Demo_telegram_bot) 
 ##### **SECTION III**
--🚧Streams in Node
+- ✅Streams in Node [Repo](https://github.com/mohinimahato/Streams-In-Nodejs)
 ### **📚 005: Express.JS**
 ### **📚 006: ORM**
 ### **📚 007: API**
